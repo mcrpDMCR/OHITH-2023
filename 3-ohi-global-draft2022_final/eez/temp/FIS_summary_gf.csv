@@ -1,0 +1,135 @@
+"region_id","stock_id","taxon_key","year","catch","score","gapfilled","method"
+25,"Amusium_pleuronectes-57",6984376,2022,22.02,0.847229129970588,1,"Mean gapfilled"
+25,"Anadara-57",590124,2022,414.37,0.762506216973529,1,"Mean gapfilled"
+25,"Anadara-71",590124,2022,0.58,0.762506216973529,1,"Mean gapfilled"
+25,"Auxis_rochei-57",600093,2022,5738,0.847229129970588,1,"Mean gapfilled"
+25,"Auxis_rochei-71",600093,2022,442,0.847229129970588,1,"Mean gapfilled"
+25,"Auxis_thazard-57",600094,2022,56,1,0,NA
+25,"Auxis_thazard-71",600094,2022,6.3,1,0,NA
+25,"Bivalvia-57",290004,2022,174.88,0.211807282492647,1,"Mean gapfilled"
+25,"Brachyura-57",490097,2022,2394.05,0.677783303976471,1,"Mean gapfilled"
+25,"Brachyura-71",490097,2022,52489.88,0.677783303976471,1,"Mean gapfilled"
+25,"Chiloscyllium_punctatum-57",605903,2022,203.37,0.847229129970588,1,"Mean gapfilled"
+25,"Chiloscyllium_punctatum-71",605903,2022,237,0.847229129970588,1,"Mean gapfilled"
+25,"Chirocentrus_dorab-57",606358,2022,1508.5,0.471401482,0,NA
+25,"Chirocentrus_dorab-71",606358,2022,3520.86,0.465707506,0,NA
+25,"Congresox_talabon-57",611701,2022,295.84,0.847229129970588,1,"Mean gapfilled"
+25,"Congresox_talabon-71",611701,2022,1492.65,0.847229129970588,1,"Mean gapfilled"
+25,"Crassostrea-57",590014,2022,85.09,0.762506216973529,1,"Mean gapfilled"
+25,"Cynoglossus_cynoglossus-57",605456,2022,614.98,0.847229129970588,1,"Mean gapfilled"
+25,"Cynoglossus_cynoglossus-71",605456,2022,40231.62,0.847229129970588,1,"Mean gapfilled"
+25,"Dasyatis-57",500646,2022,897.28,0.762506216973529,1,"Mean gapfilled"
+25,"Dasyatis-71",500646,2022,1125.33,0.762506216973529,1,"Mean gapfilled"
+25,"Decapterus-57",502102,2022,25997.8,0.762506216973529,1,"Mean gapfilled"
+25,"Decapterus-71",502102,2022,17252.78,0.762506216973529,1,"Mean gapfilled"
+25,"Ecinodermata-57",190277,2022,520.84,0.0847229129970588,1,"Mean gapfilled"
+25,"Ecinodermata-71",190277,2022,6534.77,0.0847229129970588,1,"Mean gapfilled"
+25,"Eleutheronema_tetradactylum-57",600340,2022,482.03,0.847229129970588,1,"Mean gapfilled"
+25,"Eleutheronema_tetradactylum-71",600340,2022,2500.69,0.847229129970588,1,"Mean gapfilled"
+25,"Engraulidae-57",400454,2022,17179.69,0.677783303976471,1,"Mean gapfilled"
+25,"Engraulidae-71",400454,2022,113501.13,0.677783303976471,1,"Mean gapfilled"
+25,"Epinephelus-57",500366,2022,5705.19,0.762506216973529,1,"Mean gapfilled"
+25,"Epinephelus-71",500366,2022,2032.65,0.762506216973529,1,"Mean gapfilled"
+25,"Euthynnus_affinis-57",600096,2022,5984.77,1,0,NA
+25,"Euthynnus_affinis-71",600096,2022,13727.09,0.435394768,0,NA
+25,"Istiompax_indica-57",600217,2022,645.45,1,0,NA
+25,"Istiompax_indica-71",600217,2022,802.19,0.551015623,0,NA
+25,"Istiophorus_platypterus-57",600077,2022,23.91,0.847229129970588,1,"Mean gapfilled"
+25,"Istiophorus_platypterus-71",600077,2022,75.9,1,0,NA
+25,"Katsuwonus pelamis-57",600107,2022,3997,0.847229129970588,1,"Mean gapfilled"
+25,"Katsuwonus pelamis-71",600107,2022,11849.53,0.847229129970588,1,"Mean gapfilled"
+25,"Lates_calcarifer-57",600346,2022,1506.19,1,0,NA
+25,"Lates_calcarifer-71",600346,2022,1059.44,1,0,NA
+25,"Leiognathidae-57",400318,2022,87355.83,0.677783303976471,1,"Mean gapfilled"
+25,"Leiognathidae-71",400318,2022,231666.77,0.677783303976471,1,"Mean gapfilled"
+25,"Loliginidae-57",490010,2022,12625.9,0.677783303976471,1,"Mean gapfilled"
+25,"Loliginidae-71",490010,2022,1795.2,0.677783303976471,1,"Mean gapfilled"
+25,"Lutjanus_lutjanus-57",600159,2022,6017.1,0.847229129970588,1,"Mean gapfilled"
+25,"Lutjanus_lutjanus-71",600159,2022,3948.83,0.847229129970588,1,"Mean gapfilled"
+25,"Megalaspis_cordyla-57",600384,2022,11913.85,1,0,NA
+25,"Megalaspis_cordyla-71",600384,2022,14443.49,1,0,NA
+25,"Metapenaeus_affinis-57",6925396,2022,542.18,0.847229129970588,1,"Mean gapfilled"
+25,"Metapenaeus_affinis-71",6925396,2022,5528.68,0.847229129970588,1,"Mean gapfilled"
+25,"Modiolus-57",590116,2022,800.25,0.762506216973529,1,"Mean gapfilled"
+25,"Modiolus-71",590116,2022,4164.81,0.762506216973529,1,"Mean gapfilled"
+25,"Nemipterus-57",501552,2022,8457.78,0.762506216973529,1,"Mean gapfilled"
+25,"Nemipterus-71",501552,2022,20426.87,0.762506216973529,1,"Mean gapfilled"
+25,"Netuma_thalassina-57",610220,2022,739.33,0.847229129970588,1,"Mean gapfilled"
+25,"Netuma_thalassina-71",610220,2022,1251.57,0.847229129970588,1,"Mean gapfilled"
+25,"Octopus-57",590013,2022,1204.29,0.762506216973529,1,"Mean gapfilled"
+25,"Octopus-71",590013,2022,3109.21,0.762506216973529,1,"Mean gapfilled"
+25,"Osteichthyes-57",210006,2022,24461.46,0.211807282492647,1,"Mean gapfilled"
+25,"Osteichthyes-71",210006,2022,65445.15,0.211807282492647,1,"Mean gapfilled"
+25,"Otolithes_ruber-57",604824,2022,3025.63,0.847229129970588,1,"Mean gapfilled"
+25,"Otolithes_ruber-71",604824,2022,8222.86,0.847229129970588,1,"Mean gapfilled"
+25,"Pampus_argenteus-57",600491,2022,28.86,1,0,NA
+25,"Pampus_argenteus-71",600491,2022,461.29,1,0,NA
+25,"Paphia-57",590139,2022,1651.3,0.762506216973529,1,"Mean gapfilled"
+25,"Parastromateus_niger-57",601947,2022,315.74,1,0,NA
+25,"Parastromateus_niger-71",601947,2022,4162.98,1,0,NA
+25,"Penaeidae-57",490043,2022,1156.97,0.677783303976471,1,"Mean gapfilled"
+25,"Penaeidae-71",490043,2022,7308.89,0.677783303976471,1,"Mean gapfilled"
+25,"Penaeus_latisulcatus-57",690432,2022,155.02,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_latisulcatus-71",690432,2022,300.97,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_merguiensis-57",690042,2022,3586.73,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_merguiensis-71",690042,2022,6091.14,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_monodon-57",690151,2022,46.12,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_monodon-71",690151,2022,431.45,0.847229129970588,1,"Mean gapfilled"
+25,"Penaeus_semisulcatus-57",690163,2022,315.92,1,0,NA
+25,"Penaeus_semisulcatus-71",690163,2022,343.09,0.847229129970588,1,"Mean gapfilled"
+25,"Perna_viridis-57",690060,2022,3.28,0.847229129970588,1,"Mean gapfilled"
+25,"Perna_viridis-71",690060,2022,5587,0.847229129970588,1,"Mean gapfilled"
+25,"Planiliza_subviridis-57",604819,2022,3315.65,0.847229129970588,1,"Mean gapfilled"
+25,"Planiliza_subviridis-71",604819,2022,2928.04,0.847229129970588,1,"Mean gapfilled"
+25,"Plotosus-57",500551,2022,643.83,0.762506216973529,1,"Mean gapfilled"
+25,"Plotosus-71",500551,2022,1019.34,0.762506216973529,1,"Mean gapfilled"
+25,"Portunus_pelagicus-57",690055,2022,7700.81,1,0,NA
+25,"Portunus_pelagicus-71",690055,2022,7683.81,1,0,NA
+25,"Priacanthus-57",500912,2022,3364.52,0.762506216973529,1,"Mean gapfilled"
+25,"Priacanthus-71",500912,2022,8837.73,0.762506216973529,1,"Mean gapfilled"
+25,"Psettodes_erumei-57",600513,2022,114.1,0.50355772,0,NA
+25,"Psettodes_erumei-71",600513,2022,148.41,0.847229129970588,1,"Mean gapfilled"
+25,"Ranina_ranina-57",690883,2022,226,0.847229129970588,1,"Mean gapfilled"
+25,"Ranina_ranina-71",690883,2022,3824.62,0.847229129970588,1,"Mean gapfilled"
+25,"Rastrelliger_brachysoma-57",600109,2022,12212.03,0.9,0,NA
+25,"Rastrelliger_brachysoma-71",600109,2022,19597.53,0.92,0,NA
+25,"Rastrelliger_kanagurta-57",600111,2022,24727.89,1,0,NA
+25,"Rastrelliger_kanagurta-71",600111,2022,998.63,0.85,0,NA
+25,"Rhopilema-57",590159,2022,26627.07,0.762506216973529,1,"Mean gapfilled"
+25,"Rhopilema-71",590159,2022,2986.8,0.762506216973529,1,"Mean gapfilled"
+25,"Sardinella-57",501940,2022,15998.36,0.762506216973529,1,"Mean gapfilled"
+25,"Sardinella-71",501940,2022,1581.79,0.762506216973529,1,"Mean gapfilled"
+25,"Saurida-57",502057,2022,7804.12,0.762506216973529,1,"Mean gapfilled"
+25,"Saurida-71",502057,2022,32514.96,0.762506216973529,1,"Mean gapfilled"
+25,"Scolopsis-57",500808,2022,1631.77,0.762506216973529,1,"Mean gapfilled"
+25,"Scolopsis-71",500808,2022,6474,0.762506216973529,1,"Mean gapfilled"
+25,"Scomberomorus-57",500487,2022,3770.75,0.762506216973529,1,"Mean gapfilled"
+25,"Scomberomorus-71",500487,2022,28544.15,0.762506216973529,1,"Mean gapfilled"
+25,"Scylla_serrata-57",690190,2022,1288.98,1,0,NA
+25,"Scylla_serrata-71",690190,2022,1824.93,0.847229129970588,1,"Mean gapfilled"
+25,"Selar_crumenophthalmus-57",600387,2022,12255.77,1,0,NA
+25,"Selar_crumenophthalmus-71",600387,2022,7265.79,0.847229129970588,1,"Mean gapfilled"
+25,"Selaroides_leptolepis-57",600388,2022,11863.52,0.847229129970588,1,"Mean gapfilled"
+25,"Selaroides_leptolepis-71",600388,2022,39776.65,0.847229129970588,1,"Mean gapfilled"
+25,"Sepia-57",590011,2022,3003.02,0.762506216973529,1,"Mean gapfilled"
+25,"Sepia-71",590011,2022,4452.73,0.762506216973529,1,"Mean gapfilled"
+25,"Sepioteuthis_lessoniana-57",690670,2022,4306.95,0.40191474,0,NA
+25,"Sepioteuthis_lessoniana-71",690670,2022,3.07,1,0,NA
+25,"Sergestidae-57",490041,2022,102.62,0.677783303976471,1,"Mean gapfilled"
+25,"Sergestidae-71",490041,2022,25663.2,0.677783303976471,1,"Mean gapfilled"
+25,"Seriolina_nigrofasciata-57",601962,2022,46.88,0.847229129970588,1,"Mean gapfilled"
+25,"Seriolina_nigrofasciata-71",601962,2022,13247.71,0.847229129970588,1,"Mean gapfilled"
+25,"Sillago-57",500891,2022,1107.77,0.762506216973529,1,"Mean gapfilled"
+25,"Sillago-71",500891,2022,1011.58,0.762506216973529,1,"Mean gapfilled"
+25,"Sphyraena-57",500372,2022,5371.19,0.762506216973529,1,"Mean gapfilled"
+25,"Sphyraena-71",500372,2022,953,0.762506216973529,1,"Mean gapfilled"
+25,"Stomatopoda-57",390017,2022,59.73,0.423614564985294,1,"Mean gapfilled"
+25,"Stomatopoda-71",390017,2022,1225.47,0.423614564985294,1,"Mean gapfilled"
+25,"Thenus_orientalis-57",690681,2022,46.86,0.847229129970588,1,"Mean gapfilled"
+25,"Thenus_orientalis-71",690681,2022,302.75,0.4835204,0,NA
+25,"Thunnus_albacares-57",600143,2022,1,0.891,0,NA
+25,"Thunnus_albacares-71",600143,2022,14229.57,0.48986982,0,NA
+25,"Thunnus_tonggol-57",600148,2022,4282.22,1,0,NA
+25,"Thunnus_tonggol-71",600148,2022,20018.29,0.44240836,0,NA
+25,"Trichiurus-57",500114,2022,2062.64,0.762506216973529,1,"Mean gapfilled"
+25,"Trichiurus-71",500114,2022,3247.74,0.762506216973529,1,"Mean gapfilled"
